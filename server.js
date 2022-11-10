@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const passport = require('passport');
-var cors = require('cors')
+var cors = require('cors');
 const path = require('path');
 require('dotenv').config();
 
@@ -28,7 +28,7 @@ const mainRoute = require('./routes/index');
 
 const app = express();
 
-app.use(cors())
+app.use(cors());
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -39,7 +39,11 @@ const db = require('./config/keys').mongoURI;
 
 // Connect to MongoDB
 mongoose
-  .connect(db, { useNewUrlParser: true, useFindAndModify: false })
+  .connect(db, {
+    useNewUrlParser: true,
+    useFindAndModify: false,
+    useUnifiedTopology: true,
+  })
   .then(() => console.log('MongoDB Connected'))
   .catch((err) => console.log(err));
 
