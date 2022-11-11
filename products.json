@@ -1,0 +1,71 @@
+[
+  {
+    "imageUrls": [
+      "https://i.ibb.co/2dVSpPt/ard9673.jpg",
+      "https://i.ibb.co/tCDLTX2/ard9672.jpg",
+      "https://i.ibb.co/HKLKy6M/ard9671.jpg",
+      "https://i.ibb.co/ss8DwcG/ard9675.jpg",
+      "https://i.ibb.co/xJJnSVp/ard9674.jpg"
+    ],
+    "color": "white",
+    "setName": "White Chocolate",
+    "price": "65",
+    "size": ["S", "L", "XL"],
+    "collection": "The Magic of Transparency",
+    "quantity": "7"
+  },
+  {
+    "imageUrls": [
+      "https://i.ibb.co/T8nXTzN/ard9624.jpg",
+      "https://i.ibb.co/qn793sC/ard9623.jpg",
+      "https://i.ibb.co/Y2k5Ym4/ard9625.jpg",
+      "https://i.ibb.co/XyQHR0Y/ard9621.jpg",
+      "https://i.ibb.co/35Kw6vB/ard9622.jpg"
+    ],
+    "color": "red",
+    "setName": "Sweet Pomegranate",
+    "price": "75",
+    "size": ["S", "M", "XL"],
+    "collection": "Lace of Temptation",
+    "quantity": "3"
+  },
+  {
+    "imageUrls": ["", "", "", "", ""],
+    "color": "red",
+    "setName": "sweet pomegranate",
+    "price": "75",
+    "size": ["S", "M", "XL"],
+    "collection": "Hiding Beauty",
+    "quantity": "4"
+  },
+  {
+    "imageUrls": [
+      "https://i.ibb.co/CnQWnK7/ard9695.jpg",
+      "https://i.ibb.co/hXRtq8Q/ard9692.jpg",
+      "https://i.ibb.co/mbhX3Ks/ard9693.jpg",
+      "https://i.ibb.co/r0C2DX2/ard9691.jpg",
+      "https://i.ibb.co/zfYgJnY/ard9694.jpg"
+    ],
+    "color": "red",
+    "setName": "cranberry juice",
+    "price": "80",
+    "size": ["M", "L", "XL"],
+    "collection": "The Magic of Transparency",
+    "quantity": "5"
+  },
+  {
+    "imageUrls": [
+      "https://i.ibb.co/S6nbnwM/ard81.jpg",
+      "https://i.ibb.co/dcpT7HL/ard83.jpg",
+      "https://i.ibb.co/1KbVXg5/ard82.jpg",
+      "https://i.ibb.co/0cWTWTT/ard84.jpg",
+      "https://i.ibb.co/BqVWbYY/ard85.jpg"
+    ],
+    "color": "red",
+    "setName": "Ripe Cherry",
+    "price": "75",
+    "size": ["S", "L"],
+    "collection": "Lace of Temptation",
+    "quantity": "8"
+  }
+]
